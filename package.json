@@ -1,5 +1,6 @@
 {
 	"name": "@projectstorm/react-diagrams",
+  "version": "6.6.1",
 	"author": "dylanvorster",
 	"private": true,
 	"repository": {
