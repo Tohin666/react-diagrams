@@ -9,7 +9,7 @@
 		"sourceMap": true,
 		"skipLibCheck": true,
 		"jsx": "react",
-		"target": "ES6",
+		"target": "ES5",
 		"module": "commonjs",
 		"strict": false,
 		"lib": [
